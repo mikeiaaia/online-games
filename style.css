@@ -1,0 +1,8 @@
+.div1 {
+	background-image: url("1.png");
+	height: 225px;
+	width: 700px;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-attachement: scroll;
+}
